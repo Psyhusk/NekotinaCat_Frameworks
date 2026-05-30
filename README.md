@@ -1,4 +1,15 @@
-# NekotinaCat_Framework v1.0.0 — CRIMSON SENTINEL
+😈 NekotinaCat Frameworks v5.0.1 — CRIMSON WATCHER
+
+🐱‍💻 Linux Rescue Toolkit · Dark Edition · by psyhusk
+💜 Apoie o Desenvolvimento
+O NekotinaCat é um projeto de código aberto, arquitetado e desenvolvido 100% em ambiente mobile. Meu objetivo é criar ferramentas de alta performance que facilitem o fluxo de trabalho de profissionais da área, mesmo com as limitações técnicas do meu setup atual.
+
+Se esta ferramenta foi útil para você, considere apoiar o projeto:
+
+👉 patreon.com/cw/Psyhusk/membership
+Seu apoio é fundamental para que eu possa continuar dedicando tempo integral ao desenvolvimento, à correção de bugs e à implementação de novas funcionalidades.
+
+Todo apoio é muito bem-vindo e me ajuda a manter este ecossistema vivo e em constante evolução. 🙏# NekotinaCat_Framework v5.0.1 — CRIMSON SENTINEL
 
 > Ferramenta de monitoramento defensivo de segurança para sistemas Linux/Unix.
 
