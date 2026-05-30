@@ -1,6 +1,6 @@
 😈 NekotinaCat Frameworks v5.0.1 — CRIMSON WATCHER
 
-🐱‍💻 Linux Rescue Toolkit · Dark Edition · by psyhusk
+🐱‍💻 Linux Secure Toolkit · Dark Edition · by psyhusk
 💜 Apoie o Desenvolvimento
 O NekotinaCat é um projeto de código aberto, arquitetado e desenvolvido 100% em ambiente mobile. Meu objetivo é criar ferramentas de alta performance que facilitem o fluxo de trabalho de profissionais da área, mesmo com as limitações técnicas do meu setup atual.
 
